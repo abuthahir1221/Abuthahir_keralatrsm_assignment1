@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 40px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 10%;
+}
+footer h3{
+  text-align: center;
+}
+
+p{
+    padding: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mb-3{
+    padding: 10px;
+    margin: 20px;
+    float: none;
+    border: 2px;
+  
+  
+}
+.styling{
+    margin-top: 30%;
+}
+.btn btn-primary{
+    padding: 20px;
+}
